@@ -1,0 +1,12 @@
+/Users/shibut/Documents/Samples/Algorithms/LeetCodeG/source/bin/Debug/netcoreapp3.1/source.deps.json
+/Users/shibut/Documents/Samples/Algorithms/LeetCodeG/source/bin/Debug/netcoreapp3.1/source.runtimeconfig.json
+/Users/shibut/Documents/Samples/Algorithms/LeetCodeG/source/bin/Debug/netcoreapp3.1/source.runtimeconfig.dev.json
+/Users/shibut/Documents/Samples/Algorithms/LeetCodeG/source/bin/Debug/netcoreapp3.1/source.dll
+/Users/shibut/Documents/Samples/Algorithms/LeetCodeG/source/bin/Debug/netcoreapp3.1/source.pdb
+/Users/shibut/Documents/Samples/Algorithms/LeetCodeG/source/obj/Debug/netcoreapp3.1/source.csprojAssemblyReference.cache
+/Users/shibut/Documents/Samples/Algorithms/LeetCodeG/source/obj/Debug/netcoreapp3.1/source.csproj.CoreCompileInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/LeetCodeG/source/obj/Debug/netcoreapp3.1/source.AssemblyInfoInputs.cache
+/Users/shibut/Documents/Samples/Algorithms/LeetCodeG/source/obj/Debug/netcoreapp3.1/source.AssemblyInfo.cs
+/Users/shibut/Documents/Samples/Algorithms/LeetCodeG/source/obj/Debug/netcoreapp3.1/source.dll
+/Users/shibut/Documents/Samples/Algorithms/LeetCodeG/source/obj/Debug/netcoreapp3.1/source.pdb
+/Users/shibut/Documents/Samples/Algorithms/LeetCodeG/source/obj/Debug/netcoreapp3.1/source.genruntimeconfig.cache
